@@ -7,7 +7,7 @@ In Flight Delay Prediction, users will be able to:
 * Check the delay prediction of the flight.
 
 ## Wireframes
-![wireframe](https://user-images.githubusercontent.com/56284519/132057513-9bd2009a-fa63-4d98-9f1b-b031537d560a.png)
+![wireframe](https://user-images.githubusercontent.com/56284519/132057600-5dcb0f81-c910-4eed-9626-86f3f326d675.png)
 
 ## Technologies, Libraries, APIs
 * HTML
